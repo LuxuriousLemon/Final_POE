@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMunicipalServiceApplication", "MyMunicipalServiceApplication\MyMunicipalServiceApplication.csproj", "{1078622B-5F8A-4BDB-874C-4538F1EDF077}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationClassLibrary", "..\ValidationClassLibrary\ValidationClassLibrary\ValidationClassLibrary.csproj", "{8AC44FBC-96C1-4993-8530-8F50C18C2C8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1078622B-5F8A-4BDB-874C-4538F1EDF077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1078622B-5F8A-4BDB-874C-4538F1EDF077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1078622B-5F8A-4BDB-874C-4538F1EDF077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1078622B-5F8A-4BDB-874C-4538F1EDF077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AC44FBC-96C1-4993-8530-8F50C18C2C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AC44FBC-96C1-4993-8530-8F50C18C2C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AC44FBC-96C1-4993-8530-8F50C18C2C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AC44FBC-96C1-4993-8530-8F50C18C2C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CEBF668-67B3-4422-9BBF-6844DF81F39D}
+	EndGlobalSection
+EndGlobal

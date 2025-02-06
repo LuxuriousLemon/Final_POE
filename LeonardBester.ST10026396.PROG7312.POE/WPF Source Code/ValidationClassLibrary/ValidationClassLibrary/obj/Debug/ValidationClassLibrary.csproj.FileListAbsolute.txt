@@ -1,0 +1,47 @@
+E:\University\Year 3\PROG\Semester 2\Part 1\Task 2 - Implementation\ValidationClassLibrary\ValidationClassLibrary\bin\Debug\ValidationClassLibrary.dll
+E:\University\Year 3\PROG\Semester 2\Part 1\Task 2 - Implementation\ValidationClassLibrary\ValidationClassLibrary\bin\Debug\ValidationClassLibrary.pdb
+E:\University\Year 3\PROG\Semester 2\Part 1\Task 2 - Implementation\ValidationClassLibrary\ValidationClassLibrary\obj\Debug\ValidationClassLibrary.csproj.AssemblyReference.cache
+E:\University\Year 3\PROG\Semester 2\Part 1\Task 2 - Implementation\ValidationClassLibrary\ValidationClassLibrary\obj\Debug\ValidationClassLibrary.csproj.CoreCompileInputs.cache
+E:\University\Year 3\PROG\Semester 2\Part 1\Task 2 - Implementation\ValidationClassLibrary\ValidationClassLibrary\obj\Debug\ValidationClassLibrary.dll
+E:\University\Year 3\PROG\Semester 2\Part 1\Task 2 - Implementation\ValidationClassLibrary\ValidationClassLibrary\obj\Debug\ValidationClassLibrary.pdb
+E:\University\Year 3\PROG\Semester 2\Part 2\Task 1 - Implementation\ValidationClassLibrary\ValidationClassLibrary\bin\Debug\Data\EventsData.txt
+E:\University\Year 3\PROG\Semester 2\Part 2\Task 1 - Implementation\ValidationClassLibrary\ValidationClassLibrary\bin\Debug\ValidationClassLibrary.dll
+E:\University\Year 3\PROG\Semester 2\Part 2\Task 1 - Implementation\ValidationClassLibrary\ValidationClassLibrary\bin\Debug\ValidationClassLibrary.pdb
+E:\University\Year 3\PROG\Semester 2\Part 2\Task 1 - Implementation\ValidationClassLibrary\ValidationClassLibrary\obj\Debug\ValidationClassLibrary.csproj.AssemblyReference.cache
+E:\University\Year 3\PROG\Semester 2\Part 2\Task 1 - Implementation\ValidationClassLibrary\ValidationClassLibrary\obj\Debug\ValidationClassLibrary.csproj.CoreCompileInputs.cache
+E:\University\Year 3\PROG\Semester 2\Part 2\Task 1 - Implementation\ValidationClassLibrary\ValidationClassLibrary\obj\Debug\ValidationClassLibrary.dll
+E:\University\Year 3\PROG\Semester 2\Part 2\Task 1 - Implementation\ValidationClassLibrary\ValidationClassLibrary\obj\Debug\ValidationClassLibrary.pdb
+E:\University\Year 3\PROG\Semester 2\POE Git Repo\Part 3\Task 1 - Implementation\ValidationClassLibrary\ValidationClassLibrary\bin\Debug\Data\EventsData.txt
+E:\University\Year 3\PROG\Semester 2\POE Git Repo\Part 3\Task 1 - Implementation\ValidationClassLibrary\ValidationClassLibrary\bin\Debug\ValidationClassLibrary.dll.config
+E:\University\Year 3\PROG\Semester 2\POE Git Repo\Part 3\Task 1 - Implementation\ValidationClassLibrary\ValidationClassLibrary\bin\Debug\ValidationClassLibrary.dll
+E:\University\Year 3\PROG\Semester 2\POE Git Repo\Part 3\Task 1 - Implementation\ValidationClassLibrary\ValidationClassLibrary\bin\Debug\ValidationClassLibrary.pdb
+E:\University\Year 3\PROG\Semester 2\POE Git Repo\Part 3\Task 1 - Implementation\ValidationClassLibrary\ValidationClassLibrary\bin\Debug\EntityFramework.dll
+E:\University\Year 3\PROG\Semester 2\POE Git Repo\Part 3\Task 1 - Implementation\ValidationClassLibrary\ValidationClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+E:\University\Year 3\PROG\Semester 2\POE Git Repo\Part 3\Task 1 - Implementation\ValidationClassLibrary\ValidationClassLibrary\bin\Debug\System.Data.SQLite.dll
+E:\University\Year 3\PROG\Semester 2\POE Git Repo\Part 3\Task 1 - Implementation\ValidationClassLibrary\ValidationClassLibrary\bin\Debug\System.Data.SQLite.EF6.dll
+E:\University\Year 3\PROG\Semester 2\POE Git Repo\Part 3\Task 1 - Implementation\ValidationClassLibrary\ValidationClassLibrary\bin\Debug\System.Data.SQLite.Linq.dll
+E:\University\Year 3\PROG\Semester 2\POE Git Repo\Part 3\Task 1 - Implementation\ValidationClassLibrary\ValidationClassLibrary\bin\Debug\EntityFramework.xml
+E:\University\Year 3\PROG\Semester 2\POE Git Repo\Part 3\Task 1 - Implementation\ValidationClassLibrary\ValidationClassLibrary\bin\Debug\EntityFramework.SqlServer.xml
+E:\University\Year 3\PROG\Semester 2\POE Git Repo\Part 3\Task 1 - Implementation\ValidationClassLibrary\ValidationClassLibrary\bin\Debug\System.Data.SQLite.xml
+E:\University\Year 3\PROG\Semester 2\POE Git Repo\Part 3\Task 1 - Implementation\ValidationClassLibrary\ValidationClassLibrary\obj\Debug\ValidationClassLibrary.csproj.AssemblyReference.cache
+E:\University\Year 3\PROG\Semester 2\POE Git Repo\Part 3\Task 1 - Implementation\ValidationClassLibrary\ValidationClassLibrary\obj\Debug\ValidationClassLibrary.csproj.CoreCompileInputs.cache
+E:\University\Year 3\PROG\Semester 2\POE Git Repo\Part 3\Task 1 - Implementation\ValidationClassLibrary\ValidationClassLibrary\obj\Debug\Validati.71531D64.Up2Date
+E:\University\Year 3\PROG\Semester 2\POE Git Repo\Part 3\Task 1 - Implementation\ValidationClassLibrary\ValidationClassLibrary\obj\Debug\ValidationClassLibrary.dll
+E:\University\Year 3\PROG\Semester 2\POE Git Repo\Part 3\Task 1 - Implementation\ValidationClassLibrary\ValidationClassLibrary\obj\Debug\ValidationClassLibrary.pdb
+E:\University\Year 3\PROG\Semester 2\POE Git Repo\Part 3\WPF Source Code\ValidationClassLibrary\ValidationClassLibrary\bin\Debug\Data\EventsData.txt
+E:\University\Year 3\PROG\Semester 2\POE Git Repo\Part 3\WPF Source Code\ValidationClassLibrary\ValidationClassLibrary\bin\Debug\ValidationClassLibrary.dll.config
+E:\University\Year 3\PROG\Semester 2\POE Git Repo\Part 3\WPF Source Code\ValidationClassLibrary\ValidationClassLibrary\bin\Debug\ValidationClassLibrary.dll
+E:\University\Year 3\PROG\Semester 2\POE Git Repo\Part 3\WPF Source Code\ValidationClassLibrary\ValidationClassLibrary\bin\Debug\ValidationClassLibrary.pdb
+E:\University\Year 3\PROG\Semester 2\POE Git Repo\Part 3\WPF Source Code\ValidationClassLibrary\ValidationClassLibrary\bin\Debug\EntityFramework.dll
+E:\University\Year 3\PROG\Semester 2\POE Git Repo\Part 3\WPF Source Code\ValidationClassLibrary\ValidationClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+E:\University\Year 3\PROG\Semester 2\POE Git Repo\Part 3\WPF Source Code\ValidationClassLibrary\ValidationClassLibrary\bin\Debug\System.Data.SQLite.dll
+E:\University\Year 3\PROG\Semester 2\POE Git Repo\Part 3\WPF Source Code\ValidationClassLibrary\ValidationClassLibrary\bin\Debug\System.Data.SQLite.EF6.dll
+E:\University\Year 3\PROG\Semester 2\POE Git Repo\Part 3\WPF Source Code\ValidationClassLibrary\ValidationClassLibrary\bin\Debug\System.Data.SQLite.Linq.dll
+E:\University\Year 3\PROG\Semester 2\POE Git Repo\Part 3\WPF Source Code\ValidationClassLibrary\ValidationClassLibrary\bin\Debug\EntityFramework.xml
+E:\University\Year 3\PROG\Semester 2\POE Git Repo\Part 3\WPF Source Code\ValidationClassLibrary\ValidationClassLibrary\bin\Debug\EntityFramework.SqlServer.xml
+E:\University\Year 3\PROG\Semester 2\POE Git Repo\Part 3\WPF Source Code\ValidationClassLibrary\ValidationClassLibrary\bin\Debug\System.Data.SQLite.xml
+E:\University\Year 3\PROG\Semester 2\POE Git Repo\Part 3\WPF Source Code\ValidationClassLibrary\ValidationClassLibrary\obj\Debug\ValidationClassLibrary.csproj.AssemblyReference.cache
+E:\University\Year 3\PROG\Semester 2\POE Git Repo\Part 3\WPF Source Code\ValidationClassLibrary\ValidationClassLibrary\obj\Debug\ValidationClassLibrary.csproj.CoreCompileInputs.cache
+E:\University\Year 3\PROG\Semester 2\POE Git Repo\Part 3\WPF Source Code\ValidationClassLibrary\ValidationClassLibrary\obj\Debug\Validati.71531D64.Up2Date
+E:\University\Year 3\PROG\Semester 2\POE Git Repo\Part 3\WPF Source Code\ValidationClassLibrary\ValidationClassLibrary\obj\Debug\ValidationClassLibrary.dll
+E:\University\Year 3\PROG\Semester 2\POE Git Repo\Part 3\WPF Source Code\ValidationClassLibrary\ValidationClassLibrary\obj\Debug\ValidationClassLibrary.pdb

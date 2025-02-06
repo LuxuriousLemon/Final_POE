@@ -1,0 +1,62 @@
+﻿<UserControl x:Class="MyMunicipalServiceApplication.Views.User_Control.TopBannerUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MyMunicipalServiceApplication.Views.User_Control"
+             mc:Ignorable="d" 
+             Height="200" d:DesignWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="110"/>
+            <!-- First row with two columns -->
+            <RowDefinition Height="90"/>
+            <!-- Second row for the nested grid -->
+        </Grid.RowDefinitions>
+
+        <!-- Top Banner -->
+        <Rectangle x:Name="rctTopBanner" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" 
+                    Stroke="Black" 
+                    Grid.Row="0" Fill="#FF00712D"/>
+
+        <!-- Grid for the first row with two columns -->
+        <Grid x:Name="imgCapeTownIcon" Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="570"/>
+                <!-- First column -->
+                <ColumnDefinition Width="90"/>
+                <!-- Second column -->
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Example content in the first row with two columns -->
+            <TextBlock x:Name="txtApplicationTitle" Text="Municipal Services Citizen Portal " Grid.Column="0" VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="36" FontWeight="Bold" Margin="0,49,0,0"/>
+            <Image
+
+        Grid.Column="1" x:Name="imgCapeTownA"/>
+            <Image x:Name="imgCapeTown"  Grid.Column="1" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Source="/Images/cape-town.png"/>
+
+        </Grid>
+
+        <!-- Nested Grid in the second row with five columns -->
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <!-- First column -->
+                <ColumnDefinition Width="*"/>
+                <!-- Second column -->
+                <ColumnDefinition Width="*"/>
+                <!-- Third column -->
+                <ColumnDefinition Width="*"/>
+                <!-- Fourth column -->
+
+            </Grid.ColumnDefinitions>
+
+            <!-- Buttons in the columns of the nested grid -->
+            <Button x:Name="btnHome" Content="Home" Grid.Column="0" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" BorderBrush="Transparent" Background="#FFFBE6" FontSize="18" FontWeight="Bold" BorderThickness="0" Click="btnHome_Click"/>
+            <Button x:Name="btnReport" Content="Report" Grid.Column="1" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" BorderBrush="Transparent" Background="#FFFFFBE6" FontSize="18" FontWeight="Bold" BorderThickness="0" Click="btnReport_Click"/>
+            <Button x:Name="btnEvents" Content="Events" Grid.Column="2" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" BorderBrush="Transparent" Background="#FFFFFBE6" FontSize="18" FontWeight="Bold" BorderThickness="0" Click="btnEvents_Click" />
+            <Button x:Name="btnRequest" Content="Service Requests" Grid.Column="3" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" BorderBrush="Transparent" Background="#FFFFFBE6" FontSize="18" FontWeight="Bold" BorderThickness="0" Click="btnRequest_Click"/>
+        </Grid>
+    </Grid>
+</UserControl>

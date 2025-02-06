@@ -1,0 +1,59 @@
+﻿Name: Community Picnic
+Description: A fun day out for families with food stalls, games, and activities for kids.
+Category: Community Recreation
+Type: Event
+Date: 2024-10-20
+
+Name: Neighborhood Watch Meeting
+Description: Discuss local safety concerns and how to improve security in our area.
+Category: Community Meeting
+Type: Event
+Date: 2024-10-22
+
+Name: Cultural Dance Workshop
+Description: Learn traditional dances from various cultures in a friendly and open environment.
+Category: Cultural Meeting
+Type: Event
+Date: 2024-11-05
+
+Name: Road Maintenance Notification
+Description: Notice of upcoming roadwork in the downtown area, expected to cause minor disruptions.
+Category: Government Service Announcements
+Type: Announcement
+Date: 2024-10-18
+
+Name: Public Hearing on Water Supply
+Description: A public discussion about future plans for the city's water supply infrastructure.
+Category: Public Court
+Type: Event
+Date: 2024-10-30
+
+Name: Recycling Program Update
+Description: Important changes to the local recycling program, effective starting November 1st.
+Category: Government Service Announcements
+Type: Announcement
+Date: 2024-10-15
+
+Name: Art Exhibition - Local Artists
+Description: A showcase of works from local artists in the community center. Free admission.
+Category: Community Recreation
+Type: Event
+Date: 2024-11-12
+
+Name: Annual City Budget Meeting
+Description: Review the upcoming budget for city projects and services. Open to the public.
+Category: Government Service Announcements
+Type: Event
+Date: 2024-10-25
+
+Name: Town Hall - Education Reform
+Description: Open forum to discuss recent education reform proposals and their impact on local schools.
+Category: Community Meeting
+Type: Event
+Date: 2024-11-03
+
+Name: COVID-19 Vaccination Update
+Description: Latest information on vaccination sites and availability in the region.
+Category: Government Service Announcements
+Type: Announcement
+Date: 2024-10-28

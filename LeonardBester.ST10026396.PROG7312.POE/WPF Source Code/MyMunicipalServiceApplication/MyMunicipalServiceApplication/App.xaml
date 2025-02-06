@@ -1,0 +1,10 @@
+﻿<Application x:Class="MyMunicipalServiceApplication.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:MyMunicipalServiceApplication"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <!-- Set the default icon here -->
+        <Window x:Key="MainWindow" Icon=".\Icons\1-4aca2930.ico" />
+    </Application.Resources>
+</Application>
